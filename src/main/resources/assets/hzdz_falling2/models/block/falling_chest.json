@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "hzdz_falling2:blocks/falling_chest",
+    "particle": "hzdz_falling2:blocks/falling_chest"
+  }
+}
