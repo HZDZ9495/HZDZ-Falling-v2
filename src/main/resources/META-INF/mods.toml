@@ -1,12 +1,12 @@
 modLoader="javafml"
 loaderVersion="[40,)"
-license="Academic Free License v3.0"
+license="MIT License"
 
 [[mods]]
 modId="hzdz_falling2"
 version="2.0.0"
 displayName="hzdz falling2"
-credits="Created using mod maker MCreator - https://mcreator.net/about"
+credits="made by hzdz"
 displayURL="https://minecraft.net"
 authors="HZDZ"
 
